@@ -1,0 +1,11 @@
+var Global = {}
+Global.remoteId = "1YBf3__CPCy9iL4HDEoF1_q88vaFtAR6mA4GZxIzOEG8";
+Global.remoteTab = "This Week";
+Global.translationMap = [];
+Global.selectedLanguage = "";
+Global.languages = [];
+Global.languages.push["lang_fr"] = French;
+Global.languages.push["fr"] = French;
+Global.languages.push["French"] = French;
+Global.languages.push["Français"] = French;
+Global.languages.push["France"] = French;
