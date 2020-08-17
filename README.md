@@ -15,6 +15,7 @@ Currently, you need to:
 • Set a trigger using the steps below.
 
 **Making a trigger**
+
 This step is required until a solution for automation that allows worksheet importing is found.
 
 • In the script editor, click the clock button to access the project's control panel.
