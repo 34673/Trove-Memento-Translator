@@ -35,13 +35,10 @@ French.setup = function(){
     Global.translationMap["Dark Mushroom Man (Creature)"]          = "Champi-sapiens sombre (Créature)";
     Global.translationMap["Pirate Cannoneer (Creature)"]           = "Canonnier pirate (Créature)";
     Global.translationMap["Pirate Sailor (Creature)"]              = "Matelot pirate (Créature)";
-    Global.translationMap["Undead Pirate Cannoneer (Creature)"]    = "Corsaire crustacé (Créature)";
+    Global.translationMap["Undead Pirate Cannoneer (Creature)"]    = "Canonier pirate mort-vivant (Créature)";
     Global.translationMap["Undead Pirate Sailor (Creature)"]       = "Matelot pirate Mort-vivant (Créature)";
     Global.translationMap["Cyberian Android (Creature)"]           = "Androïde cyberien (Créature)";
-    Global.translationMap["Skeleton (Creature)"]                   = "Squelette (Créature)";
-    Global.translationMap["Reanimated Knight (Creature)"]          = "Chevalier réanimé (Créature)";
     Global.translationMap["Undead Emperor (Creature)"]             = "Emprereur mort-vivant (Créature)";
-    Global.translationMap["Ancient Viking Skeleton (Creature)"]    = "Squelette viking ancien (Créature)";
     Global.translationMap["Vespucci Dragon Ogre (Creature)"]       = "Ogre dragon vespucci (Créature)";
     Global.translationMap["Ricci Dragon Ogre (Creature)"]          = "Ogre dragon Ricci (Créature)";
     Global.translationMap["Sharkhan (Creature)"]                   = "Squalokhan (Créature)";
@@ -92,6 +89,7 @@ French.setup = function(){
     //===========================================
     Global.translationMap["Deep Waspider (Boss)"]                  = ":";
     Global.translationMap["Greater Balephantom (Boss)"]            = "Spectrofléau supérieur (Boss)";
+    Global.translationMap["Refracted Balephantom (Boss)"]          = "Spectrofléau réfracté (Boss)";
     Global.translationMap["Balefire Dragon (Boss)"]                = "Dragon ignifléau (Boss)";
     Global.translationMap["Frozen Dracolich (Boss)"]               = "Dracoliche gelé (Boss)";
     Global.translationMap["Red Dragon (Boss)"]                     = "Dragon rouge (Boss)";
@@ -118,6 +116,8 @@ French.setup = function(){
     Global.translationMap["Therizinosaurus (Boss)"]                = "Thérizinosaure (Boss)";
     Global.translationMap["Tyrannosaurus Rex (Boss)"]              = "Tyrannosaurus Rex (Boss)";
     Global.translationMap["Triceratops (Boss)"]                    = "Triceratops (Boss)";
+    Global.translationMap["Shadow Hydrakken (Boss)"]               = "Hydrakken de l'ombre (Boss)";
+    Global.translationMap["Flakbeard, the Relentless (Boss)"]      = "Barbobus l'impitoyable (Boss)";
     //===========================================
     //  Mementos - Biome
     //===========================================
